@@ -11,7 +11,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br />
 
-### `yarn electron-pack"`
+### `yarn electron-pack`
 
 Builds the app for production to the `dist` folder.<br />
 Be careful to change -w parameters in the composer.json file.
